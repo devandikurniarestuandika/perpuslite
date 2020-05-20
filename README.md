@@ -13,7 +13,7 @@
   <br>
   <br>
   <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a>
-  <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/javac.svg"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/javac.svg"></a>
   <br>
   <br>
 </p>
