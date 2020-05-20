@@ -3,11 +3,19 @@
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/unstable.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/license.svg"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikom.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/stars.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/receives.svg"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/release.svg"></a>
+</p>
+
+<p align="center">
+  <br>
+  <br>
+  Terimakasih kepada
+  <br>
+  <br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a>
+  <br>
+  <br>
 </p>
 
 ## Tentang perpuslite
