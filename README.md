@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="100"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/perpuslite/master/test/logoapp.png" width="300"></p>
 
 ## Tentang perpuslite
 
