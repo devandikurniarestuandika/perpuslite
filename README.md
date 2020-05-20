@@ -1,3 +1,5 @@
+<br>
+<br>
 <p align="center"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/perpuslite/master/test/logoapp.png" width="300"></p>
 
 <p align="center">
@@ -10,10 +12,8 @@
 <p align="center">
   <br>
   <br>
-  Terimakasih kepada
-  <br>
-  <br>
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a>
+  <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a>
+  <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/javac.svg"></a>
   <br>
   <br>
 </p>
