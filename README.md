@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/perpuslite/master/test/logoapp.png" width="300"></p>
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/unstable.svg"></a>
+  <a><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/unstable.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/license.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/stars.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
