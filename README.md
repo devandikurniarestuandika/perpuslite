@@ -7,13 +7,14 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/unstable.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/license.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/stars.svg"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyler.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
 </p>
 
 <p align="center">
   <br>
   <br>
-  <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a>
+  <a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyle.svg"></a><a href="http://amikom.ac.id/"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomblack.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/javac.svg"></a>
   <br>
   <br>
