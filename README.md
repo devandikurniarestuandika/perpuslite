@@ -7,8 +7,10 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/unstable.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/license.svg"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/stars.svg"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devandikurniarestuandika/icon/master/perpuslite/amikomstyler.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/devandikurniarestuandika/perpuslite"></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/devandikurniarestuandika/perpuslite"></a>
+  <a href="#"><img src="https://img.shields.io/github/issues/devandikurniarestuandika/perpuslite"></a>
 </p>
 
 <p align="center">
